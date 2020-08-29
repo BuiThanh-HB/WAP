@@ -1,0 +1,1 @@
+G:\Aptech_3\wup\AbsoluteBeginnersWin10\UWP-041\UWP-041\ObservableCollectionExample\ObservableCollectionExample\ObservableCollectionExample.csproj;arm
